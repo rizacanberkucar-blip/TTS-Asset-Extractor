@@ -1,0 +1,14 @@
+# extracted game files — never commit these
+cards_*/
+assets_*/
+tokens_3d/
+print_ready_300dpi/
+*.stl
+*.obj
+*.unity3d
+*.png
+*.jpg
+__pycache__/
+*.pyc
+.venv/
+venv/
